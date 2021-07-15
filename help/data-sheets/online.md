@@ -24,8 +24,7 @@ keywords: new file, add file
     <td></td>
     <td></td>
     <td>Included with Subscription</td>
-    <td>Not yet used. (The article title is currently used.)</td>
-    <td colspan="2">Premier Support Levels ($)</td>
+    <td colspan="3">Premier Support Levels ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Assigned Experts<br></td>
