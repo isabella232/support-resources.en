@@ -148,10 +148,41 @@ keywords: new file, add file
 
 {style="table-layout:auto"}
 
-![icon](assets/live-chat.png)
+## Base/Online Support
+
+![icon](assets/base-online-support.png)
+
+Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
+
 
 ![icon](assets/forums.png)
 
 ![icon](assets/office-hours.png)
 
 ![icon](assets/phone-support.png)
+
+## Resources
+
+![icon](assets/resources.png)
+
+|Resource | Description |
+|--- |--- |
+|[Experience League](https://experienceleague.adobe.com/) | Experience League is how Adobe helps businesses achieve the value they expect from their Adobe investment. It’s the unified place where customers can learn, connect, and grow along a personalized path to success that includes self-help tutorials, product documentation, instructor-led training, community and technical support.|
+|[Training](https://training.adobe.com/training/) | Adobe Digital Learning Services courses are accessible from Experience League. Learning courses integrate both on-demand and instructor-led lessons. Here you can accrue skills that have recognized market value and position them to drive success in your organizations.|
+|[Production issues & system outages](https://status.adobe.com/) | Status.adobe.com conveys the health information of all Adobe products and services that are deployed in multi-tenant environments. Customers can choose their subscription preferences to get email notifications whenever Adobe creates, updates or resolves a product event. This can include scheduled maintenance or service issues of varying levels of severity.|
+|[Office Hours](https://helpx.adobe.com/customer-care-office-hours.html) | Office hour sessions provide live, educational trainings and solution-specific tips for success with Adobe Experience Cloud solutions.|
+|[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | A detailed description of Adobe Support |
+
+## Regional Hours Of Operation And Language Support
+
+![icon](assets/regional-hours.png)
+
+Adobe's local business hours align to the customer’s billing region.
+
+| North America | Europe, Middle East & Africa | Asia Pacific | Japan |
+|--- |--- |--- |--- |
+| 6 am – 5:30 pm | 9 am – 5 pm | 9 am – 5 pm | 9 am – 5:30 pm |
+
+*Language support only available in English and Japanese.*
+
+![icon](assets/bottom-banner.png)
