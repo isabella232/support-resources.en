@@ -146,6 +146,8 @@ keywords: new file, add file
 |<b>PRIORITY 3</b><br>Customer's business has minimal loss or degradation of data or services being unavailable and a workaround exists | Business hours/<br>6 hours | Business hours/<br> 4 hours | Business hours/<br>2 hours | 24x5/<br>1 hour |
 |<b>PRIORITY 4</b><br>Enhancement request or general question | Business days/<br>3 days | Business day/<br>1 day | Business day/<br> 1 day | Business day/<br> 1 day |
 
+{style="table-layout:auto"}
+
 ![icon](assets/live-chat.png)
 
 ![icon](assets/forums.png)
