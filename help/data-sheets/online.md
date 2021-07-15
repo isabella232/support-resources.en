@@ -137,6 +137,14 @@ keywords: new file, add file
 </tbody>
 </table>
 
+## Service Level Targets: Initial Response
+
+|Priority | Online Support | Business Support | Enterprise Support | Elite Support |
+|--- |--- |--- |--- |--- |
+|<b>PRIORITY 1</b><br>Customer's business has a substantial loss or degradation of mission critical data or services being unavailable and no work around exists (some solutions require submission by phone) | 24x7/<br>1 hour | 24x7/<br>1 hour | 24x7/<br>30 minutes | 24x7/<br>15 minutes |
+|<b>PRIORITY 2</b><br>Customer's business has moderate loss or degradation of data or services being unavailable and no long-term acceptable workaround exists.| Business  hours/<br>4hours | Business hours/<br>2 hours | 24x5/<br>1 hour | 24x5/<br>30 minutes |
+|<b>PRIORITY 3</b><br>Customer's business has minimal loss or degradation of data or services being unavailable and a workaround exists | Business hours/<br>6 hours | Business hours/<br> 4 hours | Business hours/<br>2 hours | 24x5/<br>1 hour |
+|<b>PRIORITY 4</b><br>Enhancement request or general question | Business days/<br>3 days | Business day/<br>1 day | Business day/<br> 1 day | Business day/<br> 1 day |
 
 ![icon](assets/live-chat.png)
 
