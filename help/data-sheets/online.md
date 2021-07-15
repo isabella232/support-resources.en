@@ -24,10 +24,10 @@ keywords: new file, add file
     <td></td>
     <td>Title</td>
     <td>Not yet used. (The article title is currently used.)</td>
-    <td colspan="2">Premier Support Levels ($)</td>
+    <td colspan="2" text-align:center>Premier Support Levels ($)</td>
   </tr>
   <tr>
-    <td rowspan="3">Assigned Experts<br></td>
+    <td rowspan="3" vertical-align:middle>Assigned Experts<br></td>
     <td>`seo-title: Creating widgets in Adobe Target`</td>
     <td>SEO Title</td>
     <td>In use</td>
