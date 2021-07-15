@@ -154,12 +154,66 @@ keywords: new file, add file
 
 Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
 
+assets/forums.png
 
-![icon](assets/forums.png)
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <img alt="Forums" src="assets/forums.png"/>
+    <div>
+    <p>Community Forums</p>
+    <p><b>Online Forums</b></p>
+    <p>Continuous online access to a growing database of technical solutions, product documentation, FAQs and more. Thousands of customers can connect on Adobe Community to share best practices and lessons learned.</p>
+    </div>
+  </td>
+  <td>
+    <img alt="Office Hours" src="assets/office-hours.png"/>
+    <div>
+    <p>Office Hours</p>
+    <p><b>Webinars</b></p>
+    <p>Office Hours is an initiative led by the Adobe Customer Support team. These sessions are designed to inform as well as help participants troubleshoot problems and provide tips and tricks to be successful with Adobe Experience Cloud.</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img alt="Experience League" src="assets/exp-league.png"/>
+    <div>
+    <p>Experience League</p>
+    <p><b>Self-guided Journeys</b></p>
+    <p>Experience Makers are made with Experience League. Customers can kickstart their Customer Experience Management abilities with personalized learning to develop skills, engage with a global community of peers, and earn career advancing recognition.</p>
+    </div>
+  </td>
+  <td>
+    <img alt="Self help" src="assets/self-help.png"/>
+    <div>
+    <p>Self-help Portals</p>
+    <p><b>24/7 Support Portal</b></p>
+    <p>On-demand access to the online Self-help Support Portal to submit support requests, review case status, and browse other resources, like our knowledgebase, news and alerts, featured tips, and more.</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img alt="Live Chat Support" src="assets/exp-league.png"/>
+    <div>
+    <p>Live Chat Support *</p>
+    <p><b>Chat Support</b></p>
+    <p>Start a chat session to get answers & help with case submission.</p>
+    </div>
+  </td>
+  <td>
+    <img alt="Phone support" src="assets/phone-support.png"/>
+    <div>
+    <p>24x7x365 P1</p>
+    <p><b>Phone Support</b></p>
+    <p>Supported Users (authorized to interact with support) system can talk to an Adobe expert.</p>
+    </div>
+  </td>
+</tr>
+</table>
 
-![icon](assets/office-hours.png)
-
-![icon](assets/phone-support.png)
+*Not all products have live chat support.
 
 ## Resources
 
