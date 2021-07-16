@@ -85,14 +85,14 @@ keywords: new file, add file
     <td>✔</td>
   </tr>
   <tr>
-    <td>Service Reviews &amp; Expert Sessions perYear</td>
+    <td>Service Reviews &amp; Expert Sessions per Year</td>
     <td></td>
     <td></td>
     <td>2</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>EventManagement</td>
+    <td>Event Management</td>
     <td></td>
     <td></td>
     <td></td>
@@ -153,8 +153,6 @@ keywords: new file, add file
 ![icon](assets/base-online-support.png)
 
 Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
-
-assets/forums.png
 
 <table style="table-layout:fixed">
 <tr>
