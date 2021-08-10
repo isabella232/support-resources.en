@@ -162,7 +162,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forums" src="assets/forums.png"/>
+    <img alt="Forums" src="assets/CommunityForums.jpg"/>
     <div>
     <p>Community Forums</p>
     <p><b>Online Forums</b></p>
@@ -170,7 +170,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Office Hours" src="assets/office-hours.png"/>
+    <img alt="Office Hours" src="assets/Webinars.jpg"/>
     <div>
     <p>Office Hours</p>
     <p><b>Webinars</b></p>
@@ -180,7 +180,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 </tr>
 <tr>
   <td>
-    <img alt="Experience League" src="assets/exp-league.png"/>
+    <img alt="Experience League" src="assets/Journeys.jpg"/>
     <div>
     <p>Experience League</p>
     <p><b>Self-guided Journeys</b></p>
@@ -188,7 +188,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Self help" src="assets/self-help.png"/>
+    <img alt="Self help" src="assets/SelfHelpPortal.jpg"/>
     <div>
     <p>Self-help Portals</p>
     <p><b>24/7 Support Portal</b></p>
@@ -198,7 +198,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 </tr>
 <tr>
   <td>
-    <img alt="Live Chat Support" src="assets/exp-league.png"/>
+    <img alt="Live Chat Support" src="assets/LiveChat.jpg"/>
     <div>
     <p>Live Chat Support *</p>
     <p><b>Chat Support</b></p>
@@ -206,7 +206,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Phone support" src="assets/phone-support.png"/>
+    <img alt="Phone support" src="assets/NamedPhoneSupport.jpg"/>
     <div>
     <p>24x7x365 P1</p>
     <p><b>Phone Support</b></p>
