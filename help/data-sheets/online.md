@@ -50,7 +50,7 @@ keywords: new file, add file
   </tr>
   <tr>
     <td rowspan="10">Support Services</td>
-    <td>Base Support</td>
+    <td>Online Support</td>
     <td>Business hours</td>
     <td>Business hours</td>
     <td>24x5</td>
@@ -71,7 +71,7 @@ keywords: new file, add file
     <td>15</td>
   </tr>
   <tr>
-    <td>Phone Case Submission</td>
+    <td>Live Television Support</td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
@@ -85,7 +85,14 @@ keywords: new file, add file
     <td>✔</td>
   </tr>
   <tr>
-    <td>Service Reviews &amp; Expert Sessions per Year</td>
+    <td>Service Reviews per Year</td>
+    <td></td>
+    <td></td>
+    <td>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Expert Sessions per Year</td>
     <td></td>
     <td></td>
     <td>2</td>
@@ -128,7 +135,7 @@ keywords: new file, add file
     <td>✔</td>
   </tr>
   <tr>
-    <td>Field Service Activities (services menu)</td>
+    <td>Field Service Activities</td>
     <td></td>
     <td></td>
     <td>2</td>
@@ -141,16 +148,14 @@ keywords: new file, add file
 
 |Priority | Online Support | Business Support | Enterprise Support | Elite Support |
 |--- |--- |--- |--- |--- |
-|<b>PRIORITY 1</b><br>Customer's business has a substantial loss or degradation of mission critical data or services being unavailable and no work around exists (some solutions require submission by phone) | 24x7/<br>1 hour | 24x7/<br>1 hour | 24x7/<br>30 minutes | 24x7/<br>15 minutes |
-|<b>PRIORITY 2</b><br>Customer's business has moderate loss or degradation of data or services being unavailable and no long-term acceptable workaround exists.| Business  hours/<br>4hours | Business hours/<br>2 hours | 24x5/<br>1 hour | 24x5/<br>30 minutes |
-|<b>PRIORITY 3</b><br>Customer's business has minimal loss or degradation of data or services being unavailable and a workaround exists | Business hours/<br>6 hours | Business hours/<br> 4 hours | Business hours/<br>2 hours | 24x5/<br>1 hour |
-|<b>PRIORITY 4</b><br>Enhancement request or general question | Business days/<br>3 days | Business day/<br>1 day | Business day/<br> 1 day | Business day/<br> 1 day |
+|<b>PRIORITY 1</b><br>Customer's production business functions are down or have significant data loss or service degradation and immediate attention is required to restore functionality and usability. | 24x7/<br>1 hour | 24x7/<br>1 hour | 24x7/<br>30 minutes | 24x7/<br>15 minutes |
+|<b>PRIORITY 2</b><br>Customer's business functions have major service degradation or potential data loss, or a major feature is impacted.| Business  hours/<br>4hours | Business hours/<br>2 hours | 24x5/<br>1 hour | 24x5/<br>30 minutes |
+|<b>PRIORITY 3</b><br>Customer's business functions have minor service degradation but there exists a solution/workaround allowing business functions to continue normally. | Business hours/<br>6 hours | Business hours/<br> 4 hours | Business hours/<br>2 hours | 24x5/<br>1 hour |
+|<b>PRIORITY 4</b><br>General question regarding current product functionality or an enhancement request. | Business days/<br>3 days | Business day/<br>1 day | Business day/<br> 1 day | Business day/<br> 1 day |
 
 {style="table-layout:auto"}
 
-## Base/Online Support
-
-![icon](assets/base-online-support.png)
+## Online Support
 
 Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
 
@@ -161,7 +166,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Community Forums</p>
     <p><b>Online Forums</b></p>
-    <p>Continuous online access to a growing database of technical solutions, product documentation, FAQs and more. Thousands of customers can connect on Adobe Community to share best practices and lessons learned.</p>
+    <p>Continuous online access to a growing database of technical solutions, product documentation, FAQs and more. Connect with practitioners and other customers on Adobe Community to share best practices and lessons learned.</p>
     </div>
   </td>
   <td>
@@ -169,7 +174,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Office Hours</p>
     <p><b>Webinars</b></p>
-    <p>Office Hours is an initiative led by the Adobe Customer Support team. These sessions are designed to inform as well as help participants troubleshoot problems and provide tips and tricks to be successful with Adobe Experience Cloud.</p>
+    <p>Office Hours led by the Adobe Customer Support team includes sessions designed to inform as well as help participants troubleshoot problems and provide tips and tricks for success with Adobe solutions.</p>
     </div>
   </td>
 </tr>
@@ -205,7 +210,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>24x7x365 P1</p>
     <p><b>Phone Support</b></p>
-    <p>Supported Users (authorized to interact with support) system can talk to an Adobe expert.</p>
+    <p>Authorized users or Named Support Contacts can submit issues through all available channels (including phone for P1) and interact with our technical support team on behalf of your company.</p>
     </div>
   </td>
 </tr>
@@ -215,23 +220,19 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 ## Resources
 
-![icon](assets/resources.png)
-
 |Resource | Description |
 |--- |--- |
 |[Experience League](https://experienceleague.adobe.com/) | Experience League is how Adobe helps businesses achieve the value they expect from their Adobe investment. It’s the unified place where customers can learn, connect, and grow along a personalized path to success that includes self-help tutorials, product documentation, instructor-led training, community and technical support.|
 |[Training](https://training.adobe.com/training/) | Adobe Digital Learning Services courses are accessible from Experience League. Learning courses integrate both on-demand and instructor-led lessons. Here you can accrue skills that have recognized market value and position them to drive success in your organizations.|
 |[Production issues & system outages](https://status.adobe.com/) | Status.adobe.com conveys the health information of all Adobe products and services that are deployed in multi-tenant environments. Customers can choose their subscription preferences to get email notifications whenever Adobe creates, updates or resolves a product event. This can include scheduled maintenance or service issues of varying levels of severity.|
-|[Office Hours](https://helpx.adobe.com/customer-care-office-hours.html) | Office hour sessions provide live, educational trainings and solution-specific tips for success with Adobe Experience Cloud solutions.|
-|[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | A detailed description of Adobe Support |
+|[Business Support Website](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support website.|
+|[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings. |
 
 ## Regional Hours Of Operation And Language Support
 
-![icon](assets/regional-hours.png)
-
 Adobe's local business hours align to the customer’s billing region.
 
-| North America | Europe, Middle East & Africa | Asia Pacific | Japan |
+| Americas | Europe, Middle East & Africa | Asia Pacific | Japan |
 |--- |--- |--- |--- |
 | 6 am – 5:30 pm | 9 am – 5 pm | 9 am – 5 pm | 9 am – 5:30 pm |
 
