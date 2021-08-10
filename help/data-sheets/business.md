@@ -1,11 +1,9 @@
 ---
 title: Business
 description: Description goes here
-keywords: new file, add file
 ---
 
 # Business
-
 
 ![icon](assets/top-banner.png)
 

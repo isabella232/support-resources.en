@@ -16,9 +16,9 @@ For more comprehensive needs, we offer Premier Support services that include acc
     <img alt="Online" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>Online</strong></a>
+    <a href="online.md"><strong>Online</strong></a> (view <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <em>View <a href="assets/OnlineSupportDatasheet.pdf" target="_blank"><strong>Online PDF</strong></a></em>
+    <p>Online description here</p>
     <br>
   </td>
   <td>
@@ -26,9 +26,9 @@ For more comprehensive needs, we offer Premier Support services that include acc
       <img alt="Business" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="business.md"><strong>Business</strong></a>
+    <a href="business.md"><strong>Business</strong></a> (view <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <em>View <a href="assets/BusinessSupportDatasheet.pdf" target="_blank"><strong>Business PDF</strong></a></em>
+    <p>Business description here</p>
     <br>
   </td>
 </tr>
@@ -38,9 +38,9 @@ For more comprehensive needs, we offer Premier Support services that include acc
     <img alt="Enterprise" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>Enterprise</strong></a>
+    <a href="enterprise.md"><strong>Enterprise</strong></a> (view <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <em>View <a href="assets/EnterprisePremierSupportDatasheet.pdf" target="_blank"><strong>Enterprise PDF</strong></a></em>
+    <p>Enterprise description goes here</p>
     <br>
   </td>
   <td>
@@ -48,9 +48,9 @@ For more comprehensive needs, we offer Premier Support services that include acc
       <img alt="Elite" src="assets/validation.png">
     </a>
     <div>
-    <a href="elite.md"><strong>Elite</strong></a>
+    <a href="elite.md"><strong>Elite</strong></a> (view <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <em>View <a href="assets/ElitePremierSupportDatasheet.pdf" target="_blank"><strong>Elite PDF</strong></a></em>
+    <p>Elite description goes here</p>
     <br>
   </td>
 </tr>
