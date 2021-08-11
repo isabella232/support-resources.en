@@ -1,9 +1,9 @@
 ---
-title: Business
+title: Business Support
 description: Description goes here
 ---
 
-# Business
+# Business Support
 
 ![icon](assets/top-banner.png)
 
@@ -40,7 +40,7 @@ description: Description goes here
     <td></td>
   </tr>
   <tr>
-    <td rowspan="10">Support Services</td>
+    <td rowspan="11">Support Services</td>
     <td>Online Support</td>
     <td>Business hours</td>
     <td>Business hours</td>
@@ -69,15 +69,11 @@ description: Description goes here
     <td>Service Reviews per Year</td>
     <td></td>
     <td></td>
-    <td>2</td>
-    <td>4</td>
   </tr>
   <tr>
     <td>Expert Sessions per Year</td>
     <td></td>
     <td></td>
-    <td>2</td>
-    <td>4</td>
   </tr>
   <tr>
     <td>Event Management</td>
@@ -129,7 +125,7 @@ description: Description goes here
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forums" src="assets/AccountSupportLead.jpg"/>
+    <img alt="Account Support Lead" src="assets/AccountSupportLead.jpg"/>
     <div>
     <p><b>Account Support Lead</b></p>
     <p>A designated Account Support Lead to proactively monitor cases, drive cross-team collaboration, deliver onboarding webinars, run service reports, provide non-technical support assistance, and function as your escalation point and internal advocate within Adobe Support.</p>
@@ -143,7 +139,7 @@ description: Description goes here
     </div>
   </td>
   <td>
-    <img alt="Experience League" src="assets/EscalationManagement.jpg"/>
+    <img alt="Excalation Management" src="assets/EscalationManagement.jpg"/>
     <div>
     <p><b>Escalation Management</b></p>
     <p>A designated point of contact within Adobe who can provide escalation assistance, regular updates and ensure priority is given to your most critical open support requests.</p>
@@ -232,7 +228,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 |Resource | Description |
 |--- |--- |
-|[Experience League](https://experienceleague.adobe.com/) | Experience League is how Adobe helps businesses achieve the value they expect from their Adobe investment. It’s the unified place where customers can learn, connect, and grow along a personalized path to success that includes self-help tutorials, product documentation, instructor-led training, community and technical support.|
+|[Experience League](https://experienceleague.adobe.com/) | Experience League is how Adobe helps businesses achieve the value they expect from their Adobe investment. It's the unified place where customers can learn, connect, and grow along a personalized path to success that includes self-help tutorials, product documentation, instructor-led training, community and technical support.|
 |[Training](https://training.adobe.com/training/) | Adobe Digital Learning Services courses are accessible from Experience League. Learning courses integrate both on-demand and instructor-led lessons. Here you can accrue skills that have recognized market value and position them to drive success in your organizations.|
 |[Production issues & system outages](https://status.adobe.com/) | Status.adobe.com conveys the health information of all Adobe products and services that are deployed in multi-tenant environments. Customers can choose their subscription preferences to get email notifications whenever Adobe creates, updates or resolves a product event. This can include scheduled maintenance or service issues of varying levels of severity.|
 |[Business Support Website](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support website.|
@@ -242,7 +238,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 ![icon](assets/regional-hours.png)
 
-Adobe's local business hours align to the customer’s billing region.
+Adobe's local business hours align to the customer's billing region.
 
 | Americas | Europe, Middle East & Africa | Asia Pacific | Japan |
 |--- |--- |--- |--- |
