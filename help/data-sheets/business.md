@@ -236,8 +236,6 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 ## Regional Hours Of Operation And Language Support
 
-![icon](assets/regional-hours.png)
-
 Adobe's local business hours align to the customer's billing region.
 
 | Americas | Europe, Middle East & Africa | Asia Pacific | Japan |

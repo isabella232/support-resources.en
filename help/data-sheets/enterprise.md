@@ -167,7 +167,9 @@ keywords: new file, add file
 </tr>
 </table>
 
-## Cloud Support Activities ![Cloud Support](assets/CloudSupportActivities.jpg)
+## Cloud Support Activities 
+
+![Cloud Support](assets/CloudSupportActivities.jpg)
 
 <table style="table-layout:fixed">
 <tr>
@@ -261,15 +263,9 @@ For customers implementing a **new Adobe Experience Cloud solution**, Launch Adv
 
 ![Support implementation and operation](assets/support-implementation.png)
 
-Adobe solution experts help validate requirements, architecture,
-development process, and launch readiness reviews with best
-practice-based guidance to customers and implementation
-partners.
+Adobe solution experts help validate requirements, architecture, development process, and launch readiness reviews with best practice-based guidance to customers and implementation partners.
 
-Launch Advisory will align with your project schedule through
-common milestones (Kickoff, Define, Design, Go-live and Post
-Launch) to guide, validate, assess and make recommendations.
-Key Deliverables include:
+Launch Advisory will align with your project schedule through common milestones (Kickoff, Define, Design, Go-live and Post Launch) to guide, validate, assess and make recommendations. Key Deliverables include:
 
 * Kickoff (including project collaboration plan) deck
 * Assessment & recommendations document
@@ -283,10 +279,7 @@ Field Services are used for **quick resolution**, focused customer success and a
 
 As an Enterprise customer, you are eligible for **2 activities per year** from the following two tracks: **Technical** and/or **Strategic**.
 
-**Technical Track Activities** ensure customers are technically sound
-and maximizing their tool adoption. Specifically, these types of
-activities include support and recommendations related to platform
-configurations, integrations and troubleshooting.
+**Technical Track Activities** ensure customers are technically sound and maximizing their tool adoption. Specifically, these types of activities include support and recommendations related to platform configurations, integrations and troubleshooting.
 
 Types of technical activities available:
 
@@ -297,22 +290,14 @@ Types of technical activities available:
 * Customer solution troubleshooting
 * Cloud service support
 
-**Strategic Track Activities** locate opportunities to ensure value is
-being realized from a customer's Adobe solutions. They include
-support recommendations related to strategy, measurement and
-maturity to drive value realization across one or more Adobe
-solutions.
+**Strategic Track Activities** locate opportunities to ensure value is being realized from a customer's Adobe solutions. They include support recommendations related to strategy, measurement and maturity to drive value realization across one or more Adobe solutions.
 
-Types of strategic activities available::
+Types of strategic activities available:
 
 * Maturity Roadmap
 * Use case development/measurement
 * Reporting & analysis
 * Best practices enablement
-
-As an Enterprise customer, you are eligible for 2 activities per
-year from the following two tracks: Technical and/or Strategic.
-Kickoff Define Design Go-Live
 
 ## Resources
 
@@ -327,8 +312,6 @@ Kickoff Define Design Go-Live
 {style="table-layout:auto"}
 
 ## Regional Hours Of Operation And Language Support
-
-![icon](assets/regional-hours.png)
 
 Adobe's local business hours align to the customer's billing region.
 
