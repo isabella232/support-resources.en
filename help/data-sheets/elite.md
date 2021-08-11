@@ -359,8 +359,6 @@ Types of strategic activities available:
 |[Business Support Website](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support website.|
 |[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings. |
 
-{style="table-layout:auto"}
-
 ## Regional Hours Of Operation And Language Support
 
 Adobe's local business hours align to the customer's billing region.
