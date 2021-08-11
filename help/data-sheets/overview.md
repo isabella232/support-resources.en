@@ -16,7 +16,7 @@ For more comprehensive needs, we offer Premier Support services that include acc
     <img alt="Online" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>Online</strong></a> (view <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="online.md"><strong>Online Support</strong></a> (view <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Online description here</p>
     <br>
@@ -26,7 +26,7 @@ For more comprehensive needs, we offer Premier Support services that include acc
       <img alt="Business" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="business.md"><strong>Business</strong></a> (view <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="business.md"><strong>Business Support</strong></a> (view <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Business description here</p>
     <br>
@@ -38,7 +38,7 @@ For more comprehensive needs, we offer Premier Support services that include acc
     <img alt="Enterprise" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>Enterprise</strong></a> (view <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="enterprise.md"><strong>Enterprise Support</strong></a> (view <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Enterprise description goes here</p>
     <br>
@@ -48,7 +48,7 @@ For more comprehensive needs, we offer Premier Support services that include acc
       <img alt="Elite" src="assets/validation.png">
     </a>
     <div>
-    <a href="elite.md"><strong>Elite</strong></a> (view <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="elite.md"><strong>Elite Support</strong></a> (view <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Elite description goes here</p>
     <br>

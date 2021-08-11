@@ -71,7 +71,7 @@ keywords: new file, add file
     <td>15</td>
   </tr>
   <tr>
-    <td>Live Television Support</td>
+    <td>Live Telephone Support</td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
