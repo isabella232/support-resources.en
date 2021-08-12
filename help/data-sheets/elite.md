@@ -158,7 +158,7 @@ description: Description goes here
     <img alt="Service Reviews" src="assets/ServiceReviews.jpg"/>
     <div>
     <p><b>Service Reviews</b></p>
-    <p>A bi-annual comprehensive review of Premier Enterprise program services, benefits and support metrics.</p>
+    <p>A regular review of Elite program services, support metrics, and deliverables, including a forwardlooking delivery plan.</p>
     </div>
   </td>
   <td>
