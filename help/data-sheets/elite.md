@@ -88,7 +88,7 @@ description: Description goes here
   <tr>
     <td>Release, Migration, Upgrade &amp; Product Roadmap Review</td>
     <td></td>
-    <td></td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Cloud Support Activities – Experience Manager as Cloud</td>
