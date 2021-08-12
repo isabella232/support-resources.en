@@ -28,12 +28,12 @@ keywords: new file, add file
     <td rowspan="3">Assigned Experts<br></td>
     <td>Account Support Lead</td>
     <td></td>
-    <td>✔</td>
+    <td></td>
   </tr>
   <tr>
     <td>Named Support Engineer</td>
     <td></td>
-    <td></td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Technical Account Manager</td>
@@ -315,12 +315,26 @@ Types of strategic activities available:
 
 ## Regional Hours Of Operation And Language Support
 
-Adobe's local business hours align to the customer's billing region.
-
-| Americas | Europe, Middle East & Africa | Asia Pacific | Japan |
-|--- |--- |--- |--- |
-| 6 am – 5:30 pm | 9 am – 5 pm | 9 am – 5 pm | 9 am – 5:30 pm |
-
-*Language support only available in English and Japanese.*
+<table>
+<thead>
+  <tr>
+    <th>Americas</th>
+    <th>Europe, Middle East & Africa</th>
+    <th>Asia Pacific</th>
+    <th>Japan</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>6 am – 5:30 pm</td>
+    <td>9 am – 5 pm</td>
+    <td>9 am – 5 pm</td>
+    <td>9 am – 5:30 pm</td>
+  </tr>
+  <tr>
+    <td colspan="4"><i>Language support only available in English and Japanese.</i></td>
+  </tr>
+</tbody>
+</table>
 
 ![icon](assets/bottom-banner.png)
