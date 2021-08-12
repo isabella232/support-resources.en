@@ -261,7 +261,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 For customers implementing a **new Adobe Experience Cloud solution**, Launch Advisory is a *core set of advisory services* and recommendations that are proven to support successful deployments and accelerate time-to-value.
 
+<!--
 ![Support implementation and operation](assets/support-implementation.png)
+-->
 
 Adobe solution experts help validate requirements, architecture, development process, and launch readiness reviews with best practice-based guidance to customers and implementation partners.
 
@@ -271,7 +273,9 @@ Launch Advisory will align with your project schedule through common milestones 
 * Assessment & recommendations document
 * Engagement summary
 
+<!--
 ![Launch Advisory Chart](assets/launch-advisory.png)
+-->
 
 ## Field Service Activities
 
