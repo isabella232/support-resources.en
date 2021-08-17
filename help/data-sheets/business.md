@@ -178,7 +178,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Phone support" src="assets/NamedPhoneSupport.png"/>
+    <img alt="Phone support" src="assets/NamedPhoneSupport70.png"/>
     <div>
     <p>24x7x365 P1</p>
     <p><b>Phone Support</b></p>
