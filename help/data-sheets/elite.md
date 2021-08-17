@@ -1,11 +1,13 @@
 ---
 title: Elite Support
-description: Description goes here
+description: Elite Support offers best-in-class SLTs, proactive support and partnership with a Technical Account Manager and a Named Support Engineer.
 ---
 
 # Elite Support
 
 ![icon](assets/Elitebanner.png)
+
+Elite Support offers best-in-class SLTs, proactive support and partnership with a Technical Account Manager and a Named Support Engineer.
 
 <table>
 <thead>

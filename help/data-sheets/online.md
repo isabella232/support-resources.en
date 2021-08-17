@@ -1,12 +1,13 @@
 ---
 title: Online Support
-description: Description goes here
-keywords: new file, add file
+description: Online Support, included with a subscription, provides limited access to phone support.
 ---
 
 # Online Support
 
 ![icon](assets/OnlineBanner.png)
+
+Online Support, included with a subscription, provides limited access to phone support.
 
 <table>
 <thead>

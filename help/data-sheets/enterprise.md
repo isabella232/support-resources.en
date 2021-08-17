@@ -1,12 +1,13 @@
 ---
 title: Enterprise Support
-description: Description goes here
-keywords: new file, add file
+description: Enterprise Support offers enhanced support SLTs, benefits of technical expertise and an advocate in the form of a Named Support Engineer.
 ---
 
 # Enterprise Support
 
 ![icon](assets/EnterpriseBanner.png)
+
+Enterprise Support offers enhanced support SLTs, benefits of technical expertise and an advocate in the form of a Named Support Engineer.
 
 <table>
 <thead>
