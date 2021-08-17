@@ -6,7 +6,7 @@ keywords: new file, add file
 
 # Online Support
 
-![icon](assets/top-banner.png)
+![icon](assets/OnlineBanner.png)
 
 <table>
 <thead>
@@ -162,7 +162,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forums" src="assets/CommunityForums.jpg"/>
+    <img alt="Forums" src="assets/CommunityForums.png"/>
     <div>
     <p>Community Forums</p>
     <p><b>Online Forums</b></p>
@@ -170,7 +170,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Office Hours" src="assets/Webinars.jpg"/>
+    <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
     <p>Office Hours</p>
     <p><b>Webinars</b></p>
@@ -180,7 +180,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 </tr>
 <tr>
   <td>
-    <img alt="Experience League" src="assets/Journeys.jpg"/>
+    <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
     <p>Experience League</p>
     <p><b>Self-guided Journeys</b></p>
@@ -188,7 +188,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Self help" src="assets/SelfHelpPortal.jpg"/>
+    <img alt="Self help" src="assets/SelfHelpPortal.png"/>
     <div>
     <p>Self-help Portals</p>
     <p><b>24/7 Support Portal</b></p>
@@ -198,7 +198,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 </tr>
 <tr>
   <td>
-    <img alt="Live Chat Support" src="assets/LiveChat.jpg"/>
+    <img alt="Live Chat Support" src="assets/LiveChat.png"/>
     <div>
     <p>Live Chat Support *</p>
     <p><b>Chat Support</b></p>
@@ -206,7 +206,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Phone support" src="assets/NamedPhoneSupport70.png"/>
+    <img alt="Phone support" src="assets/PhoneSupport.png"/>
     <div>
     <p>24x7x365 P1</p>
     <p><b>Phone Support</b></p>

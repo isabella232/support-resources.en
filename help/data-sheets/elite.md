@@ -5,7 +5,7 @@ description: Description goes here
 
 # Elite Support
 
-![icon](assets/top-banner.png)
+![icon](assets/Elitebanner.png)
 
 <table>
 <thead>
@@ -125,21 +125,21 @@ description: Description goes here
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Technical Account Manager" src="assets/NamedSupportEngineer.jpg"/>
+    <img alt="Technical Account Manager" src="assets/namedsupportengineer.png"/>
     <div>
     <p><b>Technical Account Manager</b></p>
     <p>A designated Technical Account Manager to oversee your Elite experience, coordinate the support and field services engagements, and provide proactive services to maximize your business value.</p>
     </div>
   </td>
   <td>
-    <img alt="Named Support Engineer" src="assets/NamedSupportEngineer.jpg"/>
+    <img alt="Named Support Engineer" src="assets/namedsupportengineer.png"/>
     <div>
     <p><b>Named Support Engineer</b></p>
     <p>A designated support engineer who becomes familiar with your solution environment and business goals. The NSE is an experienced support engineer that helps coordinate your Enterprise Support experience.</p>
     </div>
   </td>
   <td>
-    <img alt="Case Reviews" src="assets/CaseReviews.jpg"/>
+    <img alt="Case Reviews" src="assets/casereviews.png"/>
     <div>
     <p><b>Case Reviews</b></p>
     <p>Regular scheduled review of open support requests, ensuring customer alignment on case description, business impact, status, priority and agreement on next steps required to ensure an expedient resolution.</p>
@@ -148,21 +148,21 @@ description: Description goes here
 </tr>
 <tr>
   <td>
-    <img alt="Escalation Management" src="assets/EscalationManagement.jpg"/>
+    <img alt="Escalation Management" src="assets/EscalationManagement.png"/>
     <div>
     <p><b>Escalation Management</b></p>
     <p>A designated point of contact within Adobe who can provide escalation assistance, regular updates and ensure priority is given to your most critical open support requests.</p>
     </div>
   </td>
   <td>
-    <img alt="Service Reviews" src="assets/ServiceReviews.jpg"/>
+    <img alt="Service Reviews" src="assets/ServiceReviews.png"/>
     <div>
     <p><b>Service Reviews</b></p>
     <p>A regular review of Elite program services, support metrics, and deliverables, including a forwardlooking delivery plan.</p>
     </div>
   </td>
   <td>
-    <img alt="Expert Sessions" src="assets/ExpertSessions.jpg"/>
+    <img alt="Expert Sessions" src="assets/expertsessions.png"/>
     <div>
     <p><b>Expert Sessions</b></p>
     <p>A 60-minute session focusing on a specific product feature and how it can be utilized to solve common business problems.</p>
@@ -171,7 +171,7 @@ description: Description goes here
 </tr>
 <tr>
   <td>
-    <img alt="Environment Review" src="assets/EnvironmentReview.jpg"/>
+    <img alt="Environment Review" src="assets/EnvironmentReview.png"/>
     <div>
     <p><b>Environment Review</b></p>
     <p>Proactive review of your solution deployment, configuration, and overall architecture, including integrations.</p>
@@ -201,7 +201,7 @@ description: Description goes here
     </div>
   </td>
   <td>
-    <img alt="Knowledge Transfer" src="assets/KnowledgeTransfer.jpg"/>
+    <img alt="Knowledge Transfer" src="assets/KnowledgeTransfer.png"/>
     <div>
     <p><b>Knowledge Transfer</b></p>
     <p>Ongoing knowledge transfer from Adobe Premier Support team to provide best practices around solution usage.</p>
@@ -226,7 +226,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forums" src="assets/CommunityForums.jpg"/>
+    <img alt="Forums" src="assets/CommunityForums.png"/>
     <div>
     <p>Community Forums</p>
     <p><b>Online Forums</b></p>
@@ -234,7 +234,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Phone support" src="assets/NamedPhoneSupport70.png"/>
+    <img alt="Phone support" src="assets/PhoneSupport.png"/>
     <div>
     <p>24x7x365 P1</p>
     <p><b>Phone Support</b></p>
@@ -242,7 +242,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Experience League" src="assets/Journeys.jpg"/>
+    <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
     <p>Experience League</p>
     <p><b>Self-guided Journeys</b></p>
@@ -252,7 +252,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 </tr>
 <tr>
   <td>
-    <img alt="Office Hours" src="assets/Webinars.jpg"/>
+    <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
     <p>Office Hours</p>
     <p><b>Webinars</b></p>
@@ -260,7 +260,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Live Chat Support" src="assets/LiveChat.jpg"/>
+    <img alt="Live Chat Support" src="assets/LiveChat.png"/>
     <div>
     <p>Live Chat Support *</p>
     <p><b>Chat Support</b></p>
@@ -268,7 +268,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Self help" src="assets/SelfHelpPortal.jpg"/>
+    <img alt="Self help" src="assets/SelfHelpPortal.png"/>
     <div>
     <p>Self-help Portals</p>
     <p><b>24/7 Support Portal</b></p>

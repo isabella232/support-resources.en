@@ -13,44 +13,44 @@ For more comprehensive needs, we offer Premier Support services that include acc
 <tr>
   <td>
     <a href="online.md">
-    <img alt="Online" src="assets/leads-home.png"/>
+    <img alt="Online" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
     <a href="online.md"><strong>Online Support</strong></a> (view <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Online description here</p>
+    <p>Included with subscription, limited access to phone support</p>
     <br>
   </td>
   <td>
     <a href="business.md">
-      <img alt="Business" src="assets/infrequent.png">
+      <img alt="Business" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
     <a href="business.md"><strong>Business Support</strong></a> (view <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Business description here</p>
+    <p>Complete access Adobe’s technical support teams and to an Account Support Lead for account management</p>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="enterprise.md">
-    <img alt="Enterprise" src="assets/leads-home.png"/>
+    <img alt="Enterprise" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
     <a href="enterprise.md"><strong>Enterprise Support</strong></a> (view <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Enterprise description goes here</p>
+    <p>Enhanced support SLTs, benefits of technical expertise and an advocate in the form of a Named Support Engineer</p>
     <br>
   </td>
   <td>
     <a href="elite.md">
-      <img alt="Elite" src="assets/validation.png">
+      <img alt="Elite" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
     <a href="elite.md"><strong>Elite Support</strong></a> (view <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Elite description goes here</p>
+    <p>Best in class SLTs, proactive support and partnership with a Technical Account Manager and a Named Support Engineer</p>
     <br>
   </td>
 </tr>

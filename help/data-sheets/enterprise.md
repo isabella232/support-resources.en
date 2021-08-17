@@ -6,7 +6,7 @@ keywords: new file, add file
 
 # Enterprise Support
 
-![icon](assets/top-banner.png)
+![icon](assets/EnterpriseBanner.png)
 
 <table>
 <thead>
@@ -126,21 +126,21 @@ keywords: new file, add file
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Case Reviews" src="assets/CaseReviews.jpg"/>
+    <img alt="Case Reviews" src="assets/casereviews.png"/>
     <div>
     <p><b>Case Reviews</b></p>
     <p>Regular scheduled review of open support requests, ensuring customer alignment on case description, business impact, status, priority and agreement on next steps required to ensure an expedient resolution.</p>
     </div>
   </td>
   <td>
-    <img alt="Named Support Engineer" src="assets/NamedSupportEngineer.jpg"/>
+    <img alt="Named Support Engineer" src="assets/namedsupportengineer.png"/>
     <div>
     <p><b>Named Support Engineer</b></p>
     <p>A designated support engineer who becomes familiar with your solution environment and business goals. The NSE is an experienced support engineer that helps coordinate your Enterprise Support experience.</p>
     </div>
   </td>
   <td>
-    <img alt="Expert Sessions" src="assets/ExpertSessions.jpg"/>
+    <img alt="Expert Sessions" src="assets/expertsessions.png"/>
     <div>
     <p><b>Expert Sessions</b></p>
     <p>A 60-minute session focusing on a specific product feature and how it can be utilized to solve common business problems.</p>
@@ -149,14 +149,14 @@ keywords: new file, add file
 </tr>
 <tr>
   <td>
-    <img alt="Escalation Management" src="assets/EscalationManagement.jpg"/>
+    <img alt="Escalation Management" src="assets/EscalationManagement.png"/>
     <div>
     <p><b>Escalation Management</b></p>
     <p>A designated point of contact within Adobe who can provide escalation assistance, regular updates and ensure priority is given to your most critical open support requests.</p>
     </div>
   </td>
   <td>
-    <img alt="Service Reviews" src="assets/ServiceReviews.jpg"/>
+    <img alt="Service Reviews" src="assets/ServiceReviews.png"/>
     <div>
     <p><b>Service Reviews</b></p>
     <p>A bi-annual comprehensive review of Premier Enterprise program services, benefits and support metrics.</p>
@@ -203,7 +203,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forums" src="assets/CommunityForums.jpg"/>
+    <img alt="Forums" src="assets/CommunityForums.png"/>
     <div>
     <p>Community Forums</p>
     <p><b>Online Forums</b></p>
@@ -211,7 +211,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Phone support" src="assets/NamedPhoneSupport70.png"/>
+    <img alt="Phone support" src="assets/PhoneSupport.png"/>
     <div>
     <p>24x7x365 P1</p>
     <p><b>Phone Support</b></p>
@@ -219,7 +219,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Experience League" src="assets/Journeys.jpg"/>
+    <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
     <p>Experience League</p>
     <p><b>Self-guided Journeys</b></p>
@@ -229,7 +229,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 </tr>
 <tr>
   <td>
-    <img alt="Office Hours" src="assets/Webinars.jpg"/>
+    <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
     <p>Office Hours</p>
     <p><b>Webinars</b></p>
@@ -237,7 +237,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Live Chat Support" src="assets/LiveChat.jpg"/>
+    <img alt="Live Chat Support" src="assets/LiveChat.png"/>
     <div>
     <p>Live Chat Support *</p>
     <p><b>Chat Support</b></p>
@@ -245,7 +245,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Self help" src="assets/SelfHelpPortal.jpg"/>
+    <img alt="Self help" src="assets/SelfHelpPortal.png"/>
     <div>
     <p>Self-help Portals</p>
     <p><b>24/7 Support Portal</b></p>

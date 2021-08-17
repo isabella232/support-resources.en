@@ -5,7 +5,7 @@ description: Description goes here
 
 # Business Support
 
-![icon](assets/top-banner.png)
+![icon](assets/Businessbanner.png)
 
 <table>
 <thead>
@@ -125,21 +125,21 @@ description: Description goes here
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Account Support Lead" src="assets/AccountSupportLead.jpg"/>
+    <img alt="Account Support Lead" src="assets/Accountsupportlead.png"/>
     <div>
     <p><b>Account Support Lead</b></p>
     <p>A designated Account Support Lead to proactively monitor cases, drive cross-team collaboration, deliver onboarding webinars, run service reports, provide non-technical support assistance, and function as your escalation point and internal advocate within Adobe Support.</p>
     </div>
   </td>
   <td>
-    <img alt="Phone support" src="assets/PhoneSupport.jpg"/>
+    <img alt="Phone support" src="assets/livetelephonesupport.png"/>
     <div>
     <p><b>Live Telephone Support</b></p>
     <p>Customers can submit support cases via Phone for all P2, P3, P4 issues during regional support hours. There are no upper limits on the number of times you can call into support. Customers can also request a call back from support or request a meeting to demonstrate or work through an issue using a shared remote desktop session.</p>
     </div>
   </td>
   <td>
-    <img alt="Excalation Management" src="assets/EscalationManagement.jpg"/>
+    <img alt="Excalation Management" src="assets/EscalationManagement.png"/>
     <div>
     <p><b>Escalation Management</b></p>
     <p>A designated point of contact within Adobe who can provide escalation assistance, regular updates and ensure priority is given to your most critical open support requests.</p>
@@ -148,7 +148,7 @@ description: Description goes here
 </tr>
 <tr>
   <td>
-    <img alt="Business Services" src="assets/BusinessServices.jpg"/>
+    <img alt="Business Services" src="assets/BusinessServices.png"/>
     <div>
     <p><b>Business Services</b></p>
     <p>An Account Support Lead will host webinars covering an overview of business support services.</p>
@@ -170,7 +170,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forums" src="assets/CommunityForums.jpg"/>
+    <img alt="Forums" src="assets/CommunityForums.png"/>
     <div>
     <p>Community Forums</p>
     <p><b>Online Forums</b></p>
@@ -178,7 +178,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Phone support" src="assets/NamedPhoneSupport70.png"/>
+    <img alt="Phone support" src="assets/PhoneSupport.png"/>
     <div>
     <p>24x7x365 P1</p>
     <p><b>Phone Support</b></p>
@@ -186,7 +186,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Experience League" src="assets/Journeys.jpg"/>
+    <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
     <p>Experience League</p>
     <p><b>Self-guided Journeys</b></p>
@@ -196,7 +196,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 </tr>
 <tr>
   <td>
-    <img alt="Office Hours" src="assets/Webinars.jpg"/>
+    <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
     <p>Office Hours</p>
     <p><b>Webinars</b></p>
@@ -204,7 +204,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Live Chat Support" src="assets/LiveChat.jpg"/>
+    <img alt="Live Chat Support" src="assets/LiveChat.png"/>
     <div>
     <p>Live Chat Support *</p>
     <p><b>Chat Support</b></p>
@@ -212,7 +212,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     </div>
   </td>
   <td>
-    <img alt="Self help" src="assets/SelfHelpPortal.jpg"/>
+    <img alt="Self help" src="assets/SelfHelpPortal.png"/>
     <div>
     <p>Self-help Portals</p>
     <p><b>24/7 Support Portal</b></p>
