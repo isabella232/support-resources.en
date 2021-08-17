@@ -28,7 +28,7 @@ For more comprehensive needs, we offer Premier Support services that include acc
     <div>
     <a href="business.md"><strong>Business Support</strong></a> (view <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Complete access Adobe’s technical support teams and to an Account Support Lead for account management</p>
+    <p>Complete access to Adobe's technical support teams and to an Account Support Lead for account management</p>
     <br>
   </td>
 </tr>
@@ -50,7 +50,7 @@ For more comprehensive needs, we offer Premier Support services that include acc
     <div>
     <a href="elite.md"><strong>Elite Support</strong></a> (view <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Best in class SLTs, proactive support and partnership with a Technical Account Manager and a Named Support Engineer</p>
+    <p>Best-in-class SLTs, proactive support and partnership with a Technical Account Manager and a Named Support Engineer</p>
     <br>
   </td>
 </tr>
