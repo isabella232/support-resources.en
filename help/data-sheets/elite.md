@@ -267,6 +267,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <p>Live Chat Support *</p>
     <p><b>Chat Support</b></p>
     <p>Start a chat session to get answers & help with case submission.</p>
+    <p>* <i>Not all products have live chat support.</i></p>
     </div>
   </td>
   <td>
@@ -279,8 +280,6 @@ Adobe Customer Support offers access to online resources for documentation, enga
   </td>
 </tr>
 </table>
-
-*Not all products have live chat support.
 
 ## Cloud Support Activities - AEM
 
