@@ -7,7 +7,7 @@ description: Description goes here.
 
 Adobe's DX Customer Support organization is committed to your success. All subscriptions include a level of support that provides easy access to our highly skilled technical resources for technical assistance. 
 
-For more comprehensive needs, we offer Premier Support services that include access to named support professionals, accelerated service-level response targets, and sessions for proactive mentoring and service reviews. No matter how complex your support needs may be, Adobe offers technical and operational expertise needed to help you achieve peak performance and optimal value from your Adobe solution.
+For more comprehensive needs, we offer Adobe Support services that include access to named support professionals, accelerated service-level response targets, and sessions for proactive mentoring and service reviews. No matter how complex your support needs may be, Adobe offers technical and operational expertise needed to help you achieve peak performance and optimal value from your Adobe solution.
 
 <table style="table-layout:fixed">
 <tr>

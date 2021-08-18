@@ -25,7 +25,7 @@ Online Support, included with a subscription, provides limited access to phone s
     <td></td>
     <td></td>
     <td>Included with Subscription</td>
-    <td colspan="3">Premier Support Levels ($)</td>
+    <td colspan="3">Adobe Support Levels ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Assigned Experts<br></td>

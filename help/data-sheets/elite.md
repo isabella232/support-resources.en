@@ -206,7 +206,7 @@ Elite Support offers best-in-class SLTs, proactive support and partnership with 
     <img alt="Knowledge Transfer" src="assets/KnowledgeTransfer.png"/>
     <div>
     <p><b>Knowledge Transfer</b></p>
-    <p>Ongoing knowledge transfer from Adobe Premier Support team to provide best practices around solution usage.</p>
+    <p>Ongoing knowledge transfer from Adobe Support team to provide best practices around solution usage.</p>
     </div>
   </td>
   <td>
@@ -331,7 +331,7 @@ Launch Advisory will align with your project schedule through common milestones 
 
 ## Field Service Activities
 
-Field Services are used for **quick resolution**, focused customer success and accelerated **time-to-value**. If Launch advisory is active there will be **no Field Services in year 1** for any solution product covered by a Premier Support contract.
+Field Services are used for **quick resolution**, focused customer success and accelerated **time-to-value**. If Launch advisory is active there will be **no Field Services in year 1** for any solution product covered by an Adobe Support contract.
 
 As an Enterprise customer, you are eligible for **2 activities per year** from the following two tracks: **Technical** and/or **Strategic**.
 

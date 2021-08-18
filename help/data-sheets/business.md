@@ -23,7 +23,7 @@ Business Support provides complete access to Adobe's technical support teams and
     <td></td>
     <td></td>
     <td>Included with Subscription</td>
-    <td>Premier Support ($)</td>
+    <td>Adobe Support ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Assigned Experts<br></td>

@@ -160,7 +160,7 @@ Enterprise Support offers enhanced support SLTs, benefits of technical expertise
     <img alt="Service Reviews" src="assets/ServiceReviews.png"/>
     <div>
     <p><b>Service Reviews</b></p>
-    <p>A bi-annual comprehensive review of Premier Enterprise program services, benefits and support metrics.</p>
+    <p>A bi-annual comprehensive review of Adobe Enterprise program services, benefits and support metrics.</p>
     </div>
   </td>
   <td>
@@ -280,7 +280,7 @@ Launch Advisory will align with your project schedule through common milestones 
 
 ## Field Service Activities
 
-Field Services are used for **quick resolution**, focused customer success and accelerated **time-to-value**. If Launch advisory is active there will be **no Field Services in year 1** for any solution product covered by a Premier Support contract.
+Field Services are used for **quick resolution**, focused customer success and accelerated **time-to-value**. If Launch advisory is active there will be **no Field Services in year 1** for any solution product covered by an Adobe Support contract.
 
 As an Enterprise customer, you are eligible for **2 activities per year** from the following two tracks: **Technical** and/or **Strategic**.
 
