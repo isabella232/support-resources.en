@@ -196,7 +196,7 @@ Elite Support offers best-in-class SLTs, proactive support and partnership with 
 </tr>
 <tr>
   <td>
-    <img alt="Release Preparation & Review" src="assets/ReleasePreparation.png"/>
+    <img alt="Release Preparation & Review" src="assets/releasepreview.png"/>
     <div>
     <p><b>Release Preparation & Review</b></p>
     <p>Receive personalized guidance on new product features to take advantage of latest innovations, and have Adobe experts review release and upgrade plan.</p>
@@ -210,7 +210,7 @@ Elite Support offers best-in-class SLTs, proactive support and partnership with 
     </div>
   </td>
   <td>
-    <img alt="Event Management" src="assets/EventManagement.png"/>
+    <img alt="Event Management" src="assets/eventmanagement.png"/>
     <div>
     <p><b>Event Management</b></p>
     <p>Manage key events to ensure you have the right level of support, coverage, and mitigation plan in place during those key business and project milestones.</p>
@@ -362,7 +362,6 @@ Types of strategic activities available:
 |[Experience League](https://experienceleague.adobe.com/) | Experience League is how Adobe helps businesses achieve the value they expect from their Adobe investment. It's the unified place where customers can learn, connect, and grow along a personalized path to success that includes self-help tutorials, product documentation, instructor-led training, community and technical support.|
 |[Training](https://training.adobe.com/training/) | Adobe Digital Learning Services courses are accessible from Experience League. Learning courses integrate both on-demand and instructor-led lessons. Here you can accrue skills that have recognized market value and position them to drive success in your organizations.|
 |[Production Issues & System Outages](https://status.adobe.com/) | Status.adobe.com conveys the health information of all Adobe products and services that are deployed in multi-tenant environments. Customers can choose their subscription preferences to get email notifications whenever Adobe creates, updates or resolves a product event. This can include scheduled maintenance or service issues of varying levels of severity.|
-|[Business Support Website](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support website.|
 |[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings. |
 
 ## Regional Hours Of Operation And Language Support
