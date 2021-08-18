@@ -40,7 +40,7 @@ For more comprehensive needs, we offer Adobe Support services that include acces
     <div>
     <a href="enterprise.md"><strong>Enterprise Support</strong></a> (view <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Enhanced support SLTs, benefits of technical expertise and an advocate in the form of a Named Support Engineer</p>
+    <p>Enhanced support Service Level Targets (SLTs), benefits of technical expertise and an advocate in the form of a Named Support Engineer</p>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ For more comprehensive needs, we offer Adobe Support services that include acces
     <div>
     <a href="elite.md"><strong>Elite Support</strong></a> (view <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Best-in-class SLTs, proactive support and partnership with a Technical Account Manager and a Named Support Engineer</p>
+    <p>Best-in-class Service Level Targets (SLTs), proactive support and partnership with a Technical Account Manager and a Named Support Engineer</p>
     <br>
   </td>
 </tr>

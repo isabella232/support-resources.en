@@ -1,13 +1,13 @@
 ---
 title: Enterprise Support
-description: Enterprise Support offers enhanced support SLTs, benefits of technical expertise and an advocate in the form of a Named Support Engineer.
+description: Enterprise Support offers enhanced support Service Level Targets (SLTs), benefits of technical expertise and an advocate in the form of a Named Support Engineer.
 ---
 
 # Enterprise Support
 
 ![icon](assets/EnterpriseBanner.png)
 
-Enterprise Support offers enhanced support SLTs, benefits of technical expertise and an advocate in the form of a Named Support Engineer.
+Enterprise Support offers enhanced support Service Level Targets (SLTs), benefits of technical expertise and an advocate in the form of a Named Support Engineer.
 
 <table>
 <thead>
