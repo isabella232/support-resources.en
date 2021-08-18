@@ -210,7 +210,7 @@ Elite Support offers best-in-class SLTs, proactive support and partnership with 
     </div>
   </td>
   <td>
-    <img alt="Event Management" src="assets/eventmanagement.png"/>
+    <img alt="Event Management" src="assets/EventManagement1.png"/>
     <div>
     <p><b>Event Management</b></p>
     <p>Manage key events to ensure you have the right level of support, coverage, and mitigation plan in place during those key business and project milestones.</p>
