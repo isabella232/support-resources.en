@@ -225,17 +225,11 @@ Adobe Customer Support offers access to online resources for documentation, enga
 |[Experience League](https://experienceleague.adobe.com/) | Experience League is how Adobe helps businesses achieve the value they expect from their Adobe investment. It's the unified place where customers can learn, connect, and grow along a personalized path to success that includes self-help tutorials, product documentation, instructor-led training, community and technical support.|
 |[Training](https://training.adobe.com/training/) | Adobe Digital Learning Services courses are accessible from Experience League. Learning courses integrate both on-demand and instructor-led lessons. Here you can accrue skills that have recognized market value and position them to drive success in your organizations.|
 |[Production issues & system outages](https://status.adobe.com/) | Status.adobe.com conveys the health information of all Adobe products and services that are deployed in multi-tenant environments. Customers can choose their subscription preferences to get email notifications whenever Adobe creates, updates or resolves a product event. This can include scheduled maintenance or service issues of varying levels of severity.|
-|[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings. |
+|[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings.|
 
 ## Regional Hours Of Operation And Language Support
 
 Adobe's local business hours align to the customer's billing region.
-
-<!--
-| Americas | Europe, Middle East & Africa | Asia Pacific | Japan |
-|--- |--- |--- |--- |
-| 6 am – 5:30 pm | 9 am – 5 pm | 9 am – 5 pm | 9 am – 5:30 pm |
--->
 
 <table>
 <thead>

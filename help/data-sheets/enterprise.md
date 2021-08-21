@@ -104,7 +104,7 @@ Enterprise Support offers enhanced support Service Level Targets (SLTs), benefit
     <td>✔</td>
   </tr>
   <tr>
-    <td>Field Service Activities (services menu)</td>
+    <td>Field Service Activities</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -113,7 +113,7 @@ Enterprise Support offers enhanced support Service Level Targets (SLTs), benefit
 
 ## Service Level Targets: Initial Response
 
-|Priority | Online Support | Business Support |
+|Priority | Online Support | Enterprise Support |
 |--- |--- |--- |
 |<b>PRIORITY 1</b><br>Customer's production business functions are down or has significant data loss or degradation of services and immediate attention is required to restore functionality and usability. | 24x7/<br>1 hour | 24x7/<br>30 minutes |
 |<b>PRIORITY 2</b><br>Customer's business functions has major degradation of services, or potential of data loss or unavailability of services, or a major feature is impacted.| Business hours/<br>4 hours | 24x5/<br>1 hour |

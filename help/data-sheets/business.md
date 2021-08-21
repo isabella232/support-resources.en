@@ -104,7 +104,7 @@ Business Support provides complete access to Adobe's technical support teams and
     <td></td>
   </tr>
   <tr>
-    <td>Field Service Activities (services menu)</td>
+    <td>Field Service Activities</td>
     <td></td>
     <td></td>
   </tr>

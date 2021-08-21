@@ -104,7 +104,7 @@ Elite Support offers best-in-class Service Level Targets (SLTs), proactive suppo
     <td>✔</td>
   </tr>
   <tr>
-    <td>Field Service Activities (services menu)</td>
+    <td>Field Service Activities</td>
     <td></td>
     <td>4</td>
   </tr>
@@ -113,16 +113,16 @@ Elite Support offers best-in-class Service Level Targets (SLTs), proactive suppo
 
 ## Service Level Targets: Initial Response
 
-|Priority | Online Support | Business Support |
+|Priority | Online Support | Elite Support |
 |--- |--- |--- |
-|<b>PRIORITY 1</b><br>Customer's production business functions are down or have significant data loss or service degradation and immediate attention is required to restore functionality and usability. | 24x7/<br>1 hour | 24x7/<br>30 minutes |
+|<b>PRIORITY 1</b><br>Customer's production business functions are down or have significant data loss or service degradation and immediate attention is required to restore functionality and usability. | 24x7/<br>1 hour | 24x7/<br>15 minutes |
 |<b>PRIORITY 2</b><br>Customer's business functions have major service degradation or potential data loss, or a major feature is impacted.| Business hours/<br>4 hours | 24x5/<br>30 minutes |
 |<b>PRIORITY 3</b><br>Customer’s business functions has minor to no service degradation but there exists a solution/workaround allowing business functions to continue normally. | Business hours/<br>6 hours | 24x5/<br> 1 hour |
 |<b>PRIORITY 4</b><br>General question regarding current product functionality or an enhancement request. | Business days/<br>3 days | Business day/<br>1 day |
 
 {style="table-layout:auto"}
 
-## Enterprise Support Features
+## Elite Support Features
 
 <table style="table-layout:fixed">
 <tr>
@@ -137,7 +137,7 @@ Elite Support offers best-in-class Service Level Targets (SLTs), proactive suppo
     <img alt="Named Support Engineer" src="assets/namedsupportengineer.png"/>
     <div>
     <p><b>Named Support Engineer</b></p>
-    <p>A designated support engineer who becomes familiar with your solution environment and business goals. The NSE is an experienced support engineer that helps coordinate your Enterprise Support experience.</p>
+    <p>A designated support engineer who becomes familiar with your solution environment and business goals. The NSE is an experienced support engineer that helps coordinate your Elite Support experience.</p>
     </div>
   </td>
   <td>
@@ -160,7 +160,7 @@ Elite Support offers best-in-class Service Level Targets (SLTs), proactive suppo
     <img alt="Service Reviews" src="assets/ServiceReviews.png"/>
     <div>
     <p><b>Service Reviews</b></p>
-    <p>A regular review of Elite program services, support metrics, and deliverables, including a forwardlooking delivery plan.</p>
+    <p>A regular review of Elite program services, support metrics, and deliverables, including a forward-looking delivery plan.</p>
     </div>
   </td>
   <td>
@@ -332,7 +332,7 @@ Launch Advisory will align with your project schedule through common milestones 
 
 Field Services are used for **quick resolution**, focused customer success and accelerated **time-to-value**. If Launch advisory is active there will be **no Field Services in year 1** for any solution product covered by an Adobe Support contract.
 
-As an Enterprise customer, you are eligible for **2 activities per year** from the following two tracks: **Technical** and/or **Strategic**.
+As an Elite customer, you are eligible for **4 activities per year** from the following two tracks: **Technical** and/or **Strategic**.
 
 **Technical Track Activities** ensure customers are technically sound and maximizing their tool adoption. Specifically, these types of activities include support and recommendations related to platform configurations, integrations and troubleshooting.
 
