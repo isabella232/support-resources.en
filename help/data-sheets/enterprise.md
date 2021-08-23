@@ -270,7 +270,7 @@ Adobe solution experts help validate requirements, architecture, development pro
 Launch Advisory will align with your project schedule through common milestones (Kickoff, Define, Design, Go-live and Post Launch) to guide, validate, assess and make recommendations. Key Deliverables include:
 
 * Kickoff (including project collaboration plan) deck
-* Assessment & recommendations document
+* Assessment & recommendations documents
 * Engagement summary
 
 <!--
