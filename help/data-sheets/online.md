@@ -145,7 +145,7 @@ Online Support, included with a subscription, provides limited access to phone s
 </tbody>
 </table>
 
-## Service Level Targets: Initial Response
+## Service Level Targets: Initial Response {#service-level-targets}
 
 |Priority | Online Support | Business Support | Enterprise Support | Elite Support |
 |--- |--- |--- |--- |--- |
@@ -156,7 +156,7 @@ Online Support, included with a subscription, provides limited access to phone s
 
 {style="table-layout:auto"}
 
-## Online Support
+## Online Support {#online-support}
 
 Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
 
