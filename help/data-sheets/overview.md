@@ -1,6 +1,6 @@
 ---
 title: Support Data Sheets Overview
-description: Description goes here.
+description: This article provides a summary of Customer Support options for Adobe Experience Cloud. These options include Online, Business, Enterprise, and Elite.
 ---
 
 # Support Data Sheets Overview
