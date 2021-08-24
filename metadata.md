@@ -4,7 +4,7 @@ solution: Experience Cloud
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/support-resources.en
+git-repo: https://github.com/AdobeDocs/support-resources.en
 index: no
 hide: yes
 ---
