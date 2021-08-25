@@ -1,13 +1,13 @@
 ---
 title: Business Support
-description: Business Support provides complete access to Adobe's technical support teams and to an Account Support Lead for account management.
+description: Adobe Experience Cloud Business Support Services provide complete access to Adobe's technical support teams and to an Account Support Lead for account management.
 ---
 
 # Business Support
 
 ![icon](assets/Businessbanner.png)
 
-Business Support provides complete access to Adobe's technical support teams and to an Account Support Lead for account management.
+Adobe Experience Cloud Business Support Services provide complete access to Adobe's technical support teams and to an Account Support Lead for account management.
 
 <table>
 <thead>

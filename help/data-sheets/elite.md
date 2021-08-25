@@ -1,13 +1,13 @@
 ---
 title: Elite Support
-description: Elite Support offers best-in-class Service Level Targets (SLTs), proactive support and partnership with a Technical Account Manager and a Named Support Engineer.
+description: Adobe Experience Cloud Elite Support Services offer best-in-class Service Level Targets (SLTs), proactive support and partnership with a Technical Account Manager and a Named Support Engineer.
 ---
 
 # Elite Support
 
 ![icon](assets/Elitebanner.png)
 
-Elite Support offers best-in-class Service Level Targets (SLTs), proactive support and partnership with a Technical Account Manager and a Named Support Engineer.
+Adobe Experience Cloud Elite Support Services offer best-in-class Service Level Targets (SLTs), proactive support and partnership with a Technical Account Manager and a Named Support Engineer.
 
 <table>
 <thead>
