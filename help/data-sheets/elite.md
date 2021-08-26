@@ -283,8 +283,6 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 ## Cloud Support Activities - AEM
 
-![Cloud Support](assets/CloudSupportActivities.jpg)
-
 <table style="table-layout:fixed">
 <tr>
   <td>

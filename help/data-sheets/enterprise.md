@@ -170,8 +170,6 @@ Adobe Experience Cloud Enterprise Support Services offer enhanced support Servic
 
 ## Cloud Support Activities - AEM
 
-![Cloud Support](assets/CloudSupportActivities.jpg)
-
 <table style="table-layout:fixed">
 <tr>
   <td>
