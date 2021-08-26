@@ -42,7 +42,7 @@ Adobe Experience Cloud Business Support Services provide complete access to Adob
     <td></td>
   </tr>
   <tr>
-    <td rowspan="11">Support Services</td>
+    <td rowspan="12">Support Services</td>
     <td>Online Support</td>
     <td>Business hours</td>
     <td>Business hours</td>
@@ -74,6 +74,11 @@ Adobe Experience Cloud Business Support Services provide complete access to Adob
   </tr>
   <tr>
     <td>Expert Sessions per Year</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Case Reviews</td>
     <td></td>
     <td></td>
   </tr>

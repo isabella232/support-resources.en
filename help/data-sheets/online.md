@@ -50,7 +50,7 @@ Adobe Experience Cloud Online Support Services, included with a subscription, pr
     <td>✔</td>
   </tr>
   <tr>
-    <td rowspan="11">Support Services</td>
+    <td rowspan="12">Support Services</td>
     <td>Online Support</td>
     <td>Business hours</td>
     <td>Business hours</td>
@@ -98,6 +98,13 @@ Adobe Experience Cloud Online Support Services, included with a subscription, pr
     <td></td>
     <td>2</td>
     <td>4</td>
+  </tr>
+  <tr>
+    <td>Case Reviews</td>
+    <td></td>
+    <td></td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Event Management</td>

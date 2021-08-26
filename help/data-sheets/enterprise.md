@@ -42,7 +42,7 @@ Adobe Experience Cloud Enterprise Support Services offer enhanced support Servic
     <td></td>
   </tr>
   <tr>
-    <td rowspan="11">Support Services</td>
+    <td rowspan="12">Support Services</td>
     <td>Online Support</td>
     <td>Business hours</td>
     <td>24x5</td>
@@ -76,6 +76,11 @@ Adobe Experience Cloud Enterprise Support Services offer enhanced support Servic
     <td>Expert Sessions per Year</td>
     <td></td>
     <td>2</td>
+  </tr>
+  <tr>
+    <td>Case Reviews</td>
+    <td></td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Event Management</td>

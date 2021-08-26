@@ -42,7 +42,7 @@ Adobe Experience Cloud Elite Support Services offer best-in-class Service Level 
     <td>✔</td>
   </tr>
   <tr>
-    <td rowspan="11">Support Services</td>
+    <td rowspan="12">Support Services</td>
     <td>Online Support</td>
     <td>Business hours</td>
     <td>24x5</td>
@@ -76,6 +76,11 @@ Adobe Experience Cloud Elite Support Services offer best-in-class Service Level 
     <td>Expert Sessions per Year</td>
     <td></td>
     <td>4</td>
+  </tr>
+  <tr>
+    <td>Case Reviews</td>
+    <td></td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Event Management</td>
