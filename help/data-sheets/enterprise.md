@@ -312,13 +312,15 @@ Types of strategic activities available:
 
 ## Regional Hours Of Operation And Language Support
 
+Adobe's local business hours align to the customer's billing region.<sup>1</sup>
+
 <table>
 <thead>
   <tr>
     <th>Americas</th>
     <th>Europe, Middle East & Africa</th>
     <th>Asia Pacific</th>
-    <th>Japan</th>
+    <th>Japan<sup>1</sup></th>
   </tr>
 </thead>
 <tbody>
@@ -329,7 +331,11 @@ Types of strategic activities available:
     <td>9 am – 5:30 pm</td>
   </tr>
   <tr>
-    <td colspan="4"><i>Language support only available in English and Japanese.</i></td>
+    <td colspan="4">
+      <p><sup>1</sup><i>Language support is available only in English and Japanese.</i></p>
+      <p><sup>2</sup><i>Adobe Commerce excludes Japanese language support.</i></p>
+      <p><i>(Japan) P2, P3, P4 cases are limited to business hours only.</i></p>
+    </td>
   </tr>
 </tbody>
 </table>

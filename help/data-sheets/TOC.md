@@ -6,7 +6,7 @@ user-guide-description: Support resources for Adobe Experience Cloud and Adobe E
 # Support Resources {#data-sheets}
 
 + [Overview](overview.md)
-+ Data Sheets {#data-sheets}
++ Support Services {#data-sheets}
   + [Online](online.md)
   + [Business](business.md)
   + [Enterprise](enterprise.md)
