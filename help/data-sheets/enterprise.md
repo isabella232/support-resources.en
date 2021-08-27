@@ -22,7 +22,7 @@ Adobe Experience Cloud Enterprise Support Services offer enhanced support Servic
   <tr>
     <td></td>
     <td></td>
-    <td>Included with Subscription</td>
+    <td></td>
     <td>Paid Support ($)</td>
   </tr>
   <tr>

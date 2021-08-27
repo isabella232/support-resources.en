@@ -22,7 +22,7 @@ Adobe Experience Cloud Elite Support Services offer best-in-class Service Level 
   <tr>
     <td></td>
     <td></td>
-    <td>Included with Subscription</td>
+    <td></td>
     <td>Paid Support ($)</td>
   </tr>
   <tr>

@@ -24,7 +24,7 @@ Adobe Experience Cloud Online Support Services, included with a subscription, pr
   <tr>
     <td></td>
     <td></td>
-    <td>Included with Subscription</td>
+    <td></td>
     <td colspan="3">Adobe Support Levels ($)</td>
   </tr>
   <tr>
