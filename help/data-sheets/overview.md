@@ -18,7 +18,7 @@ For more comprehensive needs, we offer Adobe Support services that include acces
     <div>
     <a href="online.md"><strong>Online Support</strong></a> (view <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Included with subscription, limited access to phone support</p>
+    <p>Limited access to phone support</p>
     <br>
   </td>
   <td>

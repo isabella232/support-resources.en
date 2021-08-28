@@ -1,13 +1,13 @@
 ---
 title: Online Support
-description: Adobe Experience Cloud Online Support Services, included with a subscription, provide limited access to phone support.
+description: Adobe Experience Cloud Online Support Services provide limited access to phone support.
 ---
 
 # Online Support
 
 ![icon](assets/OnlineBanner.png)
 
-Adobe Experience Cloud Online Support Services, included with a subscription, provide limited access to phone support.
+Adobe Experience Cloud Online Support Services provide limited access to phone support.
 
 <table>
 <thead>
