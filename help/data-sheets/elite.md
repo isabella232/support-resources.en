@@ -366,9 +366,9 @@ Types of strategic activities available:
 |[Production Issues & System Outages](https://status.adobe.com/) | Status.adobe.com conveys the health information of all Adobe products and services that are deployed in multi-tenant environments. Customers can choose their subscription preferences to get email notifications whenever Adobe creates, updates or resolves a product event. This can include scheduled maintenance or service issues of varying levels of severity.|
 |[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings. |
 
-## Regional Hours Of Operation And Language Support
+## Regional Scope of Adobe Support, Local Hours of Operation, and Language Support
 
-Adobe's local business hours align to the customer's billing region.<sup>1</sup>
+The Regional scope of Adobe Support is established by aligning the customer's billing address (via the Sales Order or other Adobe Support purchasing document) to one of the following regions:
 
 <table>
 <thead>
@@ -389,8 +389,8 @@ Adobe's local business hours align to the customer's billing region.<sup>1</sup>
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Language support is available only in English and Japanese.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce excludes Japanese language support.</i></p>
-      <p><i>(Japan) P2, P3, P4 cases are limited to business hours only.</i></p>
+      <p><i>Adobe Commerce excludes Japanese language support.</i></p>
+      <p><i>P2, P3, P4 cases are limited to business hours only in Japan.</i></p>
     </td>
   </tr>
 </tbody>

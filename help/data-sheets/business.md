@@ -240,9 +240,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 |[Business Support Website](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support website.|
 |[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings. |
 
-## Regional Hours Of Operation And Language Support
+## Regional Scope of Adobe Support, Local Hours of Operation, and Language Support
 
-Adobe's local business hours align to the customer's billing region.<sup>1</sup>
+The Regional scope of Adobe Support is established by aligning the customer's billing address (via the Sales Order or other Adobe Support purchasing document) to one of the following regions:
 
 <table>
 <thead>
@@ -250,7 +250,7 @@ Adobe's local business hours align to the customer's billing region.<sup>1</sup>
     <th>Americas</th>
     <th>Europe, Middle East & Africa</th>
     <th>Asia Pacific</th>
-    <th>Japan<sup>2</sup></th>
+    <th>Japan<sup>1</sup></th>
   </tr>
 </thead>
 <tbody>
@@ -263,8 +263,8 @@ Adobe's local business hours align to the customer's billing region.<sup>1</sup>
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Language support is available only in English and Japanese.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce excludes Japanese language support.</i></p>
-      <p><i>(Japan) P2, P3, P4 cases are limited to business hours only.</i></p>
+      <p><i>Adobe Commerce excludes Japanese language support.</i></p>
+      <p><i>P2, P3, P4 cases are limited to business hours only in Japan.</i></p>
     </td>
   </tr>
 </tbody>
