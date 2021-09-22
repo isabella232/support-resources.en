@@ -389,7 +389,6 @@ The Regional scope of Adobe Support is established by aligning the customer's bi
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Language support is available only in English and Japanese.</i></p>
-      <p><i>Adobe Commerce excludes Japanese language support.</i></p>
       <p><i>P2, P3, P4 cases are limited to business hours only in Japan.</i></p>
     </td>
   </tr>
