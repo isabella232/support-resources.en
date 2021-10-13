@@ -11,7 +11,7 @@ user-guide-description: Support resources for Adobe Experience Cloud and Adobe E
   + [Business](business.md)
   + [Enterprise](enterprise.md)
   + [Elite](elite.md)
-+ [Terms and Conditions page](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
++ [Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 
 <!--
 
