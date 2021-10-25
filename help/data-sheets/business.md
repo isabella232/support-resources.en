@@ -23,7 +23,7 @@ Adobe Experience Cloud Business Support Services provide complete access to Adob
     <td></td>
     <td></td>
     <td></td>
-    <td>Adobe Support ($)</td>
+    <td>Paid Support ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Assigned Experts<br></td>

@@ -25,7 +25,7 @@ Adobe Experience Cloud Online Support Services provide limited access to phone s
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Adobe Support Levels ($)</td>
+    <td colspan="3">Paid Support ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Assigned Experts<br></td>
