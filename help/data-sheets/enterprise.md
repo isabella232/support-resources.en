@@ -120,9 +120,9 @@ Adobe Experience Cloud Enterprise Support Services offer enhanced support Servic
 
 |Priority | Online Support | Enterprise Support |
 |--- |--- |--- |
-|<b>PRIORITY 1</b><br>Customer's production business functions are down or has significant data loss or degradation of services and immediate attention is required to restore functionality and usability. | 24x7/<br>1 hour | 24x7/<br>30 minutes |
-|<b>PRIORITY 2</b><br>Customer's business functions has major degradation of services, or potential of data loss or unavailability of services, or a major feature is impacted.| Business hours/<br>4 hours | 24x5/<br>1 hour |
-|<b>PRIORITY 3</b><br>Customer's business functions has minor to no degradation of services with a solution/workaround allowing business functions to continue. | Business hours/<br>6 hours | Business hours/<br> 2 hours |
+|<b>PRIORITY 1</b><br>Customer's production business functions are down or has significant data loss or service degradation and immediate attention is required to restore functionality and usability. | 24x7/<br>1 hour | 24x7/<br>30 minutes |
+|<b>PRIORITY 2</b><br>Customer's business functions have major service degradation or potential data loss, or a major feature is impacted.| Business hours/<br>4 hours | 24x5/<br>1 hour |
+|<b>PRIORITY 3</b><br>Customer's business functions have minor service degradation but there exists a solution/workaround allowing business functions to continue normally. | Business hours/<br>6 hours | Business hours/<br> 2 hours |
 |<b>PRIORITY 4</b><br>General question regarding current product functionality or an enhancement request. | Business days/<br>3 days | Business day/<br>1 day |
 
 {style="table-layout:auto"}
