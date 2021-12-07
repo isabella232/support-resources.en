@@ -201,7 +201,7 @@ Adobe Experience Cloud Enterprise Support Services offer enhanced support Servic
 ## Online Support Features
 
 <!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
+Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions. 
 -->
 
 <table style="table-layout:fixed">
